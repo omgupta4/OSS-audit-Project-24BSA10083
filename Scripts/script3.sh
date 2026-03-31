@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 3: Disk and Permission Auditor
-# Author: Shrish Tulsiani
+# Author: Om Gupta
 # Software Choice: Git
 
 # --- Array Definition ---
