@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 4: Log File Analyzer
-# Author: Shrish Tulsiani
+# Author: Om Gupta
 # Usage: ./script4.sh /path/to/logfile [keyword]
 
 # --- Argument Handling ---
