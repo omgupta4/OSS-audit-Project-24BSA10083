@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 2: FOSS Package Inspector
-# Author: Shrish Tulsiani
+# Author: Om Gupta
 # Software Choice: git
 
 # Setting the package as the Git
